@@ -12,27 +12,23 @@
 Estes são os únicos dados do negócio. Grave-os em `config/business.json` no início do trabalho e leia deles em todo o resto do sistema — nenhum valor real pode ficar espalhado pelo código.
 
 ```
-OWNER_NAME              = {{SEU_NOME}}
-OWNER_ROLE              = {{SEU_CARGO}}
-COMPANY_NAME            = {{NOME_DA_EMPRESA}}
-COMPANY_WEBSITE         = {{SITE_DA_EMPRESA}}
-INSTAGRAM_HANDLE        = {{@SEU_INSTAGRAM}}
+OWNER_NAME              = {{Augusto César}}
+OWNER_ROLE              = {{Diretor}}
+COMPANY_NAME            = {{Agility}}
+COMPANY_WEBSITE         = {{https://agilitymkt.com/}}
+INSTAGRAM_HANDLE        = {{@agilitymkt}}
 
-WHATSAPP_LINK           = {{https://wa.me/55...}}
-AFFILIATE_GROUP_LINK    = {{link do grupo de afiliados}}
+WHATSAPP_LINK           = {{https://wa.me/551616992402451}}
 
-ONE_LINE_PITCH          = {{o que a empresa resolve, em uma frase}}
-HOW_IT_WORKS            = {{passo 1}} | {{passo 2}} | {{passo 3}}
-REVENUE_MODEL           = {{como a empresa ganha dinheiro}}
-MARKET_JARGON           = {{termo do nicho}} = {{o que significa}}
+ONE_LINE_PITCH          = {{conectamos sua marca ao público certo e geraramos resultados reais}}
+REVENUE_MODEL           = {{Fee Mensal + Project-Based}}
 
-VERIFIED_CLAIMS         = {{afirmações JÁ comprovadas — só estas podem ser enviadas}}
-UNVERIFIED_CLAIMS       = {{afirmações a comprovar — BLOQUEADAS até virarem prova}}
+VERIFIED_CLAIMS         = {{+ de 1 milhão de pessoas impactadas todos os meses}}
+UNVERIFIED_CLAIMS       = {{+ de 10 milhões de pessoas impactadas todos os meses}}
 
-ICP_SEGMENTS            = {{segmento 1}} | {{segmento 2}} | {{segmento 3}}
-ICP_KEYWORDS            = {{palavra 1}} | {{palavra 2}} | {{palavra 3}}
-AFFILIATE_TOPICS        = {{tema 1}} | {{tema 2}}
-GEOGRAPHY               = {{região}}
+ICP_SEGMENTS            = {{Industria}} | {{Educação}} | {{Turismo}}
+ICP_KEYWORDS            = {{Poder de investimento}} | {{Conciencia de marketing}} | {{Tempo de mercado}}
+GEOGRAPHY               = {{Brasil}}
 ```
 
 ---
